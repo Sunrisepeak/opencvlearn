@@ -17,5 +17,6 @@ deploy_key_rsa
 learngit
 x64
 Debug
-.vs
-
+*.vs
+*.jpg
+*.bmp
